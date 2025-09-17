@@ -1,0 +1,4 @@
+res://level/parallax_background.tscn
+res://player/player.tscn
+res://level.tscn
+res://level/tileset/tileset.tres
